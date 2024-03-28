@@ -20,5 +20,9 @@ items:
 - title: Je suis enceinte
   target: "/je-suis-enceinte/"
   kind: page
-  children: []
+  children:
+  - title: Je souhaite avorter
+    target: "/je-suis-enceinte/je-souhaite-avorter/"
+    kind: page
+    children: []
 
