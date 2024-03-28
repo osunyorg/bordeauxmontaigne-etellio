@@ -25,4 +25,8 @@ items:
     target: "/je-suis-enceinte/je-souhaite-avorter/"
     kind: page
     children: []
+  - title: Je souhaite poursuivre ma grossesse
+    target: "/je-suis-enceinte/je-souhaite-poursuivre-ma-grossesse/"
+    kind: page
+    children: []
 
