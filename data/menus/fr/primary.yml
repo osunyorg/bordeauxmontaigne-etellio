@@ -17,16 +17,40 @@ items:
   target: "/organisations/"
   kind: page
   children: []
-- title: Je découvre que je suis enceinte
+- title: 'Je découvre que je suis enceinte : Dois-je avorter ?'
   target: "/je-suis-enceinte/"
   kind: page
   children:
-  - title: Je souhaite avorter
+  - title: L'échographie de datation
     target: "/je-suis-enceinte/je-souhaite-avorter/"
     kind: page
-    children: []
-  - title: Je souhaite poursuivre ma grossesse
-    target: "/je-suis-enceinte/je-souhaite-poursuivre-ma-grossesse/"
-    kind: page
-    children: []
+    children:
+    - title: Je suis à moins de 14 semaines, je souhaite avorter et/ou me renseigner
+      target: "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/"
+      kind: page
+      children:
+      - title: 'IVG : L''entretien psycho -social'
+        target: "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/ivg-lentretien-psycho-social/"
+        kind: page
+        children:
+        - title: Je ne souhaite pas avorter
+          target: "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/ivg-lentretien-psycho-social/je-ne-souhaite-pas-avorter/"
+          kind: page
+          children: []
+        - title: Je prends le temps de réfléchir à l'IVG
+          target: "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/ivg-lentretien-psycho-social/je-prends-le-temps-de-reflechir-a-livg/"
+          kind: page
+          children: []
+        - title: Je suis sûre, je souhaite avorter
+          target: "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/ivg-lentretien-psycho-social/je-suis-sure-je-souhaite-avorter/"
+          kind: page
+          children:
+          - title: 'Après l''IVG '
+            target: "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/ivg-lentretien-psycho-social/je-suis-sure-je-souhaite-avorter/apres-livg/"
+            kind: page
+            children: []
+    - title: Je suis à plus de 14 semaines, je souhaite avorter et/ou me renseigner
+      target: "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg-1/"
+      kind: page
+      children: []
 
