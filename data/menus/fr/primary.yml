@@ -17,4 +17,8 @@ items:
   target: "/organisations/"
   kind: page
   children: []
+- title: Je suis enceinte
+  target: "/je-suis-enceinte/"
+  kind: page
+  children: []
 
