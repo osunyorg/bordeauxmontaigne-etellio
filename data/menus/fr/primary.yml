@@ -5,10 +5,6 @@ items:
   target: "/je-suis-enceinte/"
   kind: page
   children: []
-- title: Je dois subir une IMG
-  target: "/"
-  kind: page
-  children: []
 - title: A propos
   target: "/a-propos/"
   kind: page
