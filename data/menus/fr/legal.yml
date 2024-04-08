@@ -17,4 +17,8 @@ items:
   target: "/plan-du-site/"
   kind: page
   children: []
+- title: Contact
+  target: "/contact-etellio/"
+  kind: page
+  children: []
 
