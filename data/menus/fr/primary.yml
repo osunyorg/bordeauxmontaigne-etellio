@@ -1,6 +1,10 @@
 ---
 title: Menu principal
 items:
+- title: Récits d'IVG
+  target: "/temoignages/"
+  kind: page
+  children: []
 - title: J'envisage l'IVG
   target: "/je-suis-enceinte/"
   kind: page
