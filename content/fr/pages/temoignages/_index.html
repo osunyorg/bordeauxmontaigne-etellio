@@ -49,30 +49,19 @@ contents_reading_time:
     moins d'une minute
 contents:
   - kind: block
-    template: pages
+    template: posts
     title: >-
       Récits d'IVG
     ranks:
       self: 2
       children: 3
     data:
-      page: 
-        path: "/temoignages/"
-        slug: "temoignages"
-        file: "pages/temoignages/_index.html"
-      show_main_description: false
-      show_descriptions: true
-      show_images: true
+      mode: all
+      all: true
       layout: grid
-      pages:
-        - path: "/temoignages/recitsivg-ep2-agnes/"
-          slug: "recitsivg-ep2-agnes"
-          file: "pages/temoignages/recitsivg-ep2-agnes/_index.html"
-          external: false
-        - path: "/temoignages/recits-ivg-ep4-olivia/"
-          slug: "recits-ivg-ep4-olivia"
-          file: "pages/temoignages/recits-ivg-ep4-olivia/_index.html"
-          external: false
+      posts:
+        - "2024/2024-04-09-recits-ivg-ep2"
+        - "2024/2024-04-09-recits-ivg-ep1"
 
 
   - kind: block
@@ -101,22 +90,6 @@ contents:
 
           target_blank: false
 
-
-
-  - kind: block
-    template: posts
-    title: >-
-      Récits d'IVG
-    ranks:
-      self: 2
-      children: 3
-    data:
-      mode: all
-      all: true
-      layout: grid
-      posts:
-        - "2024/2024-04-09-recits-ivg-ep2"
-        - "2024/2024-04-09-recits-ivg-ep1"
 
 
 
