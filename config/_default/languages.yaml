@@ -9,11 +9,11 @@ fr:
   params:
     social:
   permalinks:
-    posts: /temoignages/:year-:month-:day-:slug/
+    posts: /nulle/:year-:month-:day-:slug/
     projects: /projets/:year-:slug/
     projects_categories: /projets/:slug/
     persons: /equipe/:slug/
-    authors: /equipe/:slug/temoignages/
+    authors: /equipe/:slug/nulle/
   taxonomies:
     administrator: administrators
     author: authors

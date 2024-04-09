@@ -2,7 +2,7 @@
 title: Menu principal
 items:
 - title: Récits d'IVG
-  target: "/temoignages/"
+  target: "/nulle/"
   kind: page
   children: []
 - title: J'envisage l'IVG
