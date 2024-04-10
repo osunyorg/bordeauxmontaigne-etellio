@@ -9,7 +9,7 @@ items:
   target: "/je-suis-enceinte/"
   kind: page
   children: []
-- title: A propos
+- title: À propos
   target: "/a-propos/"
   kind: page
   children: []
