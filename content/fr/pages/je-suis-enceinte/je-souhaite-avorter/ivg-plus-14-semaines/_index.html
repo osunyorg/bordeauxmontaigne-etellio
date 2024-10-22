@@ -62,19 +62,27 @@ header_cta:
   target: ""
   external: false
 contents_reading_time:
-  seconds: 31
+  seconds: 32
   text: >-
     1 minute
 contents:
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Je consulte le planning familial
-    slug: "je-consulte-le-planning-familial"
-    position: 1
-    rank: 2
+    slug: >-
+      je-consulte-le-planning-familial
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: chapter
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -99,6 +107,8 @@ contents:
     template: call_to_action
     title: >-
       Des témoignages d'IVG
+    slug: >-
+      des-temoignages-d-ivg
     ranks:
       self: 3
     data:
@@ -121,7 +131,6 @@ contents:
             https://etellio.mmibordeaux.com/temoignages/
 
           target_blank: true
-
 
 
 

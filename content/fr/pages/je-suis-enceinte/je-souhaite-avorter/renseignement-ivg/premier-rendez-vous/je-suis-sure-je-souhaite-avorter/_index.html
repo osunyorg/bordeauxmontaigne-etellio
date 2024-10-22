@@ -75,20 +75,28 @@ header_cta:
   target: ""
   external: false
 contents_reading_time:
-  seconds: 19
+  seconds: 20
   text: >-
     moins d'une minute
 contents:
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Deux types d'IVG sont possibles
-    slug: "deux-types-d-ivg-sont-possibles"
-    position: 1
-    rank: 2
+    slug: >-
+      deux-types-d-ivg-sont-possibles
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: chapter
     title: >-
       IVG médicamenteuse
+    slug: >-
+      ivg-medicamenteuse
     ranks:
       self: 3
     data:
@@ -115,6 +123,8 @@ contents:
     template: chapter
     title: >-
       IVG instrumentale
+    slug: >-
+      ivg-instrumentale
     ranks:
       self: 3
     data:
@@ -137,16 +147,23 @@ contents:
 
 
 
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Je continue mon parcours
-    slug: "je-continue-mon-parcours"
-    position: 2
-    rank: 2
+    slug: >-
+      je-continue-mon-parcours
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: pages
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -167,7 +184,6 @@ contents:
           slug: "livg-medicamenteuse-1"
           file: "pages/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/premier-rendez-vous/je-suis-sure-je-souhaite-avorter/livg-medicamenteuse-1/_index.html"
           external: false
-
 
 
 
