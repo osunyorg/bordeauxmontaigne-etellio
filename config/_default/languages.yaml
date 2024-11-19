@@ -15,7 +15,6 @@ fr:
     posts_categories: /temoignages-ivg/:slug/
     persons: /equipe/:slug/
     persons_categories: /equipe/categories/:slug/
-    authors: /equipe/:slug/temoignages-ivg/
   taxonomies:
     administrator: administrators
     author: authors
