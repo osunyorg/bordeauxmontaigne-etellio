@@ -5,12 +5,15 @@ items:
   target: "/temoignages/"
   kind: page
   children: []
+  file: content/fr/pages/temoignages/_index.html
 - title: J'envisage l'IVG
   target: "/je-suis-enceinte/"
   kind: page
   children: []
+  file: content/fr/pages/je-suis-enceinte/_index.html
 - title: À propos
   target: "/a-propos/"
   kind: page
   children: []
+  file: content/fr/pages/a-propos/_index.html
 
