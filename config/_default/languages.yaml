@@ -7,7 +7,8 @@ fr:
   languageCode: fr
   languageName: Français
   params:
-    social:
+    contact_details:
+
   permalinks:
     projects: /projets/:year-:slug/
     projects_categories: /projets/:slug/
