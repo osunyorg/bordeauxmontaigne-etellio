@@ -2,24 +2,30 @@
 title: Menu principal
 items:
 - title: Récits d'IVG
+  slug: recits-d-ivg
   target: "/temoignages/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/temoignages"
   file: content/fr/pages/temoignages/_index.html
 - title: J'envisage l'IVG
+  slug: j-envisage-l-ivg
   target: "/je-suis-enceinte/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/je-suis-enceinte"
   file: content/fr/pages/je-suis-enceinte/_index.html
 - title: À propos
+  slug: a-propos
   target: "/a-propos/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/a-propos"
   file: content/fr/pages/a-propos/_index.html
 
