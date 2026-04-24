@@ -15,162 +15,162 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/nulle/2024-04-09-recits-ivg-ep3/index.html"
+from = "/nulle/2024-04-09-recits-ivg-ep3/"
 to = "/temoignages-ivg/2024-04-09-recits-ivg-ep3/"
 
 [[redirects]]
-from = "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/ivg-lentretien-psycho-social/je-suis-sure-je-souhaite-avorter/apres-livg/index.html"
+from = "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/ivg-lentretien-psycho-social/je-suis-sure-je-souhaite-avorter/apres-livg/"
 to = "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/premier-rendez-vous/je-suis-sure-je-souhaite-avorter/apres-livg/"
 
 [[redirects]]
-from = "/je-suis-enceinte/je-souhaite-avorter/je-suis-a-moins-de-14-semaines-je-souhaite-avorter-etou-me-renseigner/ivg-lentretien-psycho-social/je-suis-sure-je-souhaite-avorter/apres-livg/index.html"
+from = "/je-suis-enceinte/je-souhaite-avorter/je-suis-a-moins-de-14-semaines-je-souhaite-avorter-etou-me-renseigner/ivg-lentretien-psycho-social/je-suis-sure-je-souhaite-avorter/apres-livg/"
 to = "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/premier-rendez-vous/je-suis-sure-je-souhaite-avorter/apres-livg/"
 
 [[redirects]]
-from = "/equipe/lucile-gouvenel/nulle/index.html"
+from = "/equipe/lucile-gouvenel/nulle/"
 to = "/equipe/lucile-gouvenel/temoignages-ivg/"
 
 [[redirects]]
-from = "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/ivg-entretien-psycho-social/je-suis-sure-je-souhaite-avorter/apres-livg/index.html"
+from = "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/ivg-entretien-psycho-social/je-suis-sure-je-souhaite-avorter/apres-livg/"
 to = "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/premier-rendez-vous/je-suis-sure-je-souhaite-avorter/apres-livg/"
 
 [[redirects]]
-from = "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/je-prends-rendez-vous-avec-un-professionnel-de-sante/je-ne-souhaite-pas-avorter/index.html"
+from = "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/je-prends-rendez-vous-avec-un-professionnel-de-sante/je-ne-souhaite-pas-avorter/"
 to = "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/premier-rendez-vous/je-ne-souhaite-pas-avorter/"
 
 [[redirects]]
-from = "/je-suis-enceinte/je-souhaite-avorter/je-suis-a-moins-de-14-semaines-je-souhaite-avorter-etou-me-renseigner/ivg-lentretien-psycho-social/je-prends-le-temps-de-reflechir-a-livg/index.html"
+from = "/je-suis-enceinte/je-souhaite-avorter/je-suis-a-moins-de-14-semaines-je-souhaite-avorter-etou-me-renseigner/ivg-lentretien-psycho-social/je-prends-le-temps-de-reflechir-a-livg/"
 to = "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/premier-rendez-vous/je-prends-le-temps-de-reflechir-a-livg/"
 
 [[redirects]]
-from = "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/ivg-lentretien-psycho-social/je-suis-sure-je-souhaite-avorter/index.html"
+from = "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/ivg-lentretien-psycho-social/je-suis-sure-je-souhaite-avorter/"
 to = "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/premier-rendez-vous/je-suis-sure-je-souhaite-avorter/"
 
 [[redirects]]
-from = "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/je-prends-rendez-vous-avec-un-professionnel-de-sante/je-suis-sure-je-souhaite-avorter/index.html"
+from = "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/je-prends-rendez-vous-avec-un-professionnel-de-sante/je-suis-sure-je-souhaite-avorter/"
 to = "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/premier-rendez-vous/je-suis-sure-je-souhaite-avorter/"
 
 [[redirects]]
-from = "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/je-prends-rendez-vous-avec-un-professionnel-de-sante/ivg-entretien-psycho-social/index.html"
+from = "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/je-prends-rendez-vous-avec-un-professionnel-de-sante/ivg-entretien-psycho-social/"
 to = "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/premier-rendez-vous/entretien-psycho-social/"
 
 [[redirects]]
-from = "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/ivg-entretien-psycho-social/je-suis-sure-je-souhaite-avorter/index.html"
+from = "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/ivg-entretien-psycho-social/je-suis-sure-je-souhaite-avorter/"
 to = "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/premier-rendez-vous/je-suis-sure-je-souhaite-avorter/"
 
 [[redirects]]
-from = "/nulle/index.html"
+from = "/nulle/"
 to = "/temoignages-ivg/"
 
 [[redirects]]
-from = "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/ivg-lentretien-psycho-social/je-prends-le-temps-de-reflechir-a-livg/index.html"
+from = "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/ivg-lentretien-psycho-social/je-prends-le-temps-de-reflechir-a-livg/"
 to = "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/premier-rendez-vous/je-prends-le-temps-de-reflechir-a-livg/"
 
 [[redirects]]
-from = "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/je-prends-rendez-vous-avec-un-professionnel-de-sante/ivg-entretien-psycho-social/je-suis-sure-je-souhaite-avorter/index.html"
+from = "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/je-prends-rendez-vous-avec-un-professionnel-de-sante/ivg-entretien-psycho-social/je-suis-sure-je-souhaite-avorter/"
 to = "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/premier-rendez-vous/je-suis-sure-je-souhaite-avorter/"
 
 [[redirects]]
-from = "/temoignages/2024-04-09-recits-ivg-ep1/index.html"
+from = "/temoignages/2024-04-09-recits-ivg-ep1/"
 to = "/temoignages-ivg/2024-04-09-recits-ivg-ep1/"
 
 [[redirects]]
-from = "/je-suis-enceinte/je-souhaite-avorter/je-suis-a-moins-de-14-semaines-je-souhaite-avorter-etou-me-renseigner/ivg-lentretien-psycho-social/je-ne-souhaite-pas-avorter/index.html"
+from = "/je-suis-enceinte/je-souhaite-avorter/je-suis-a-moins-de-14-semaines-je-souhaite-avorter-etou-me-renseigner/ivg-lentretien-psycho-social/je-ne-souhaite-pas-avorter/"
 to = "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/premier-rendez-vous/je-ne-souhaite-pas-avorter/"
 
 [[redirects]]
-from = "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/ivg-lentretien-psycho-social/je-ne-souhaite-pas-avorter/index.html"
+from = "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/ivg-lentretien-psycho-social/je-ne-souhaite-pas-avorter/"
 to = "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/premier-rendez-vous/je-ne-souhaite-pas-avorter/"
 
 [[redirects]]
-from = "/je-suis-enceinte/je-souhaite-avorter/je-suis-a-plus-de-14-semaines-je-souhaite-avorter-etou-me-renseigner/index.html"
+from = "/je-suis-enceinte/je-souhaite-avorter/je-suis-a-plus-de-14-semaines-je-souhaite-avorter-etou-me-renseigner/"
 to = "/je-suis-enceinte/je-souhaite-avorter/ivg-plus-14-semaines/"
 
 [[redirects]]
-from = "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/ivg-lentretien-psycho-social/index.html"
+from = "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/ivg-lentretien-psycho-social/"
 to = "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/premier-rendez-vous/entretien-psycho-social/"
 
 [[redirects]]
-from = "/temoignages/2024-04-09-recits-ivg-ep2/index.html"
+from = "/temoignages/2024-04-09-recits-ivg-ep2/"
 to = "/temoignages-ivg/2024-04-09-recits-ivg-ep2/"
 
 [[redirects]]
-from = "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/ivg-entretien-psycho-social/je-ne-souhaite-pas-avorter/index.html"
+from = "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/ivg-entretien-psycho-social/je-ne-souhaite-pas-avorter/"
 to = "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/premier-rendez-vous/je-ne-souhaite-pas-avorter/"
 
 [[redirects]]
-from = "/actualites/2024-04-09-recits-ivg-ep1/index.html"
+from = "/actualites/2024-04-09-recits-ivg-ep1/"
 to = "/temoignages-ivg/2024-04-09-recits-ivg-ep1/"
 
 [[redirects]]
-from = "/nulle/2024-04-09-recits-ivg-ep2/index.html"
+from = "/nulle/2024-04-09-recits-ivg-ep2/"
 to = "/temoignages-ivg/2024-04-09-recits-ivg-ep2/"
 
 [[redirects]]
-from = "/temoignages-ivg/2024-04-10-titre-a-definir-oser-parler-recits-divg-ep6/index.html"
+from = "/temoignages-ivg/2024-04-10-titre-a-definir-oser-parler-recits-divg-ep6/"
 to = "/temoignages-ivg/2024-04-10-recits-ivg-ep6/"
 
 [[redirects]]
-from = "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/premier-rendez-vous/ivg-entretien-psycho-social/index.html"
+from = "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/premier-rendez-vous/ivg-entretien-psycho-social/"
 to = "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/premier-rendez-vous/entretien-psycho-social/"
 
 [[redirects]]
-from = "/je-suis-enceinte/je-souhaite-avorter/je-suis-a-moins-de-14-semaines-je-souhaite-avorter-etou-me-renseigner/index.html"
+from = "/je-suis-enceinte/je-souhaite-avorter/je-suis-a-moins-de-14-semaines-je-souhaite-avorter-etou-me-renseigner/"
 to = "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/"
 
 [[redirects]]
-from = "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg-1/index.html"
+from = "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg-1/"
 to = "/je-suis-enceinte/je-souhaite-avorter/ivg-plus-14-semaines/"
 
 [[redirects]]
-from = "/actualites/2024-04-09-recits-ivg-ep2/index.html"
+from = "/actualites/2024-04-09-recits-ivg-ep2/"
 to = "/temoignages-ivg/2024-04-09-recits-ivg-ep2/"
 
 [[redirects]]
-from = "/actualites/index.html"
+from = "/actualites/"
 to = "/temoignages-ivg/"
 
 [[redirects]]
-from = "/je-suis-enceinte/je-souhaite-avorter/je-suis-a-moins-de-14-semaines-je-souhaite-avorter-etou-me-renseigner/ivg-lentretien-psycho-social/je-suis-sure-je-souhaite-avorter/index.html"
+from = "/je-suis-enceinte/je-souhaite-avorter/je-suis-a-moins-de-14-semaines-je-souhaite-avorter-etou-me-renseigner/ivg-lentretien-psycho-social/je-suis-sure-je-souhaite-avorter/"
 to = "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/premier-rendez-vous/je-suis-sure-je-souhaite-avorter/"
 
 [[redirects]]
-from = "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/ivg-entretien-psycho-social/je-prends-le-temps-de-reflechir-a-livg/index.html"
+from = "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/ivg-entretien-psycho-social/je-prends-le-temps-de-reflechir-a-livg/"
 to = "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/premier-rendez-vous/je-prends-le-temps-de-reflechir-a-livg/"
 
 [[redirects]]
-from = "/nulle/2024-04-09-recits-ivg-ep4/index.html"
+from = "/nulle/2024-04-09-recits-ivg-ep4/"
 to = "/temoignages-ivg/2024-04-09-recits-ivg-ep4/"
 
 [[redirects]]
-from = "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/je-prends-rendez-vous-avec-un-professionnel-de-sante/ivg-entretien-psycho-social/je-ne-souhaite-pas-avorter/index.html"
+from = "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/je-prends-rendez-vous-avec-un-professionnel-de-sante/ivg-entretien-psycho-social/je-ne-souhaite-pas-avorter/"
 to = "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/premier-rendez-vous/je-ne-souhaite-pas-avorter/"
 
 [[redirects]]
-from = "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/je-prends-rendez-vous-avec-un-professionnel-de-sante/je-prends-le-temps-de-reflechir-a-livg/index.html"
+from = "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/je-prends-rendez-vous-avec-un-professionnel-de-sante/je-prends-le-temps-de-reflechir-a-livg/"
 to = "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/premier-rendez-vous/je-prends-le-temps-de-reflechir-a-livg/"
 
 [[redirects]]
-from = "/je-suis-enceinte/je-souhaite-avorter/je-suis-a-moins-de-14-semaines-je-souhaite-avorter-etou-me-renseigner/ivg-lentretien-psycho-social/index.html"
+from = "/je-suis-enceinte/je-souhaite-avorter/je-suis-a-moins-de-14-semaines-je-souhaite-avorter-etou-me-renseigner/ivg-lentretien-psycho-social/"
 to = "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/premier-rendez-vous/entretien-psycho-social/"
 
 [[redirects]]
-from = "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/je-prends-rendez-vous-avec-un-professionnel-de-sante/je-suis-sure-je-souhaite-avorter/apres-livg/index.html"
+from = "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/je-prends-rendez-vous-avec-un-professionnel-de-sante/je-suis-sure-je-souhaite-avorter/apres-livg/"
 to = "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/premier-rendez-vous/je-suis-sure-je-souhaite-avorter/apres-livg/"
 
 [[redirects]]
-from = "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/ivg-entretien-psycho-social/index.html"
+from = "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/ivg-entretien-psycho-social/"
 to = "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/premier-rendez-vous/entretien-psycho-social/"
 
 [[redirects]]
-from = "/equipe/lucile-gouvenel/actualites/index.html"
+from = "/equipe/lucile-gouvenel/actualites/"
 to = "/equipe/lucile-gouvenel/temoignages-ivg/"
 
 [[redirects]]
-from = "/nulle/2024-04-09-recits-ivg-ep1/index.html"
+from = "/nulle/2024-04-09-recits-ivg-ep1/"
 to = "/temoignages-ivg/2024-04-09-recits-ivg-ep1/"
 
 [[redirects]]
-from = "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/je-prends-rendez-vous-avec-un-professionnel-de-sante/ivg-entretien-psycho-social/je-prends-le-temps-de-reflechir-a-livg/index.html"
+from = "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/je-prends-rendez-vous-avec-un-professionnel-de-sante/ivg-entretien-psycho-social/je-prends-le-temps-de-reflechir-a-livg/"
 to = "/je-suis-enceinte/je-souhaite-avorter/renseignement-ivg/premier-rendez-vous/je-prends-le-temps-de-reflechir-a-livg/"
 
